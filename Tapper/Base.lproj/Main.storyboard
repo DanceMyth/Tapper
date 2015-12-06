@@ -54,8 +54,8 @@
                                     <action selector="finishedTyping:" destination="BYZ-38-t0r" eventType="editingDidEndOnExit" id="Pfp-m5-PgX"/>
                                 </connections>
                             </textField>
-                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BD7-AZ-zvT" userLabel="CoinBtn">
-                                <rect key="frame" x="221" y="34" width="158" height="174"/>
+                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BD7-AZ-zvT" userLabel="CoinBtn">
+                                <rect key="frame" x="221" y="28" width="158" height="174"/>
                                 <animations/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="158" id="7Yd-1h-uc9"/>
@@ -66,8 +66,8 @@
                                     <action selector="coinTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vwi-ZH-X2k"/>
                                 </connections>
                             </button>
-                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="100 Taps" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EdA-kP-sLC" userLabel="TapsLbl">
-                                <rect key="frame" x="165" y="224" width="271" height="97"/>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100 Taps" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EdA-kP-sLC" userLabel="TapsLbl">
+                                <rect key="frame" x="165" y="218" width="271" height="97"/>
                                 <animations/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="271" id="BpM-9W-8Kh"/>
